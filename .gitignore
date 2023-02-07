@@ -1,0 +1,5 @@
+*.ipynb 
+.streamlit/* 
+test_pdf.pdf 
+.ipynb_checkpoints 
+old_algo.py
